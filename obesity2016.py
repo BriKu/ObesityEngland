@@ -1,6 +1,5 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
 
 # Data source: 
 # https://www.data.gov.uk/dataset/a7fb45df-7566-488b-80d8-a5dd5e52ff32/statistics-on-obesity-physical-activity-and-diet-england
